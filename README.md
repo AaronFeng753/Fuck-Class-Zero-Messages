@@ -44,7 +44,9 @@
 
 ![6](/pics/6.jpg)
 
-
+# 你咋知道`ClassZeroActivity`是负责霸屏短信的?
+我看的谷歌发的源代码:[点击这个链接查看源码](https://android.googlesource.com/platform/packages/apps/Mms/+/d00f7cd4e92f5c4b86a0827184390a71373f268e/src/com/android/mms/ui/ClassZeroActivity.java)
+本人不是安卓开发者,如有错误欢迎指正.
 
 
 
