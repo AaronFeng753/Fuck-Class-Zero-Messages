@@ -27,19 +27,19 @@
 
 ![2]()
 
-然后打开软件主界面,搜索找到`系统短信app`, 点击一下那一行会出现各种选项,选择`Menu of Patches`
+### 3.然后打开软件主界面,搜索找到`系统短信app`, 点击一下那一行会出现各种选项,选择`Menu of Patches`
 
 ![3]()
 
-选择`Remove Google ads`
+### 4.选择`Remove Google ads`
 
 ![4]()
 
-选择`Disable ad activities`
+### 5.选择`Disable ad activities`
 
 ![5]()
 
-在出现的菜单上方搜索`zero`, 会出现`ClassZeroActivity`,这就是万恶之源,负责弹出霸屏短信的activity,点击它,变红后即代表成功禁用,然后点击下方的`Launch`测试一下是否能正常打开短信.本人亲测禁用这个activity不会影响正常收发短信.
+### 6.在出现的菜单上方搜索`zero`, 会出现`ClassZeroActivity`,这就是万恶之源,负责弹出霸屏短信的activity,点击它,变红后即代表成功禁用,然后点击下方的`Launch`测试一下是否能正常打开短信.本人亲测禁用这个activity不会影响正常收发短信.
 
 ![6]()
 
