@@ -43,7 +43,9 @@
 
 ![5](/pics/5.jpg)
 
-### 6.在出现的菜单上方搜索`zero`, 会出现`ClassZeroActivity`,这就是万恶之源,负责弹出霸屏短信的activity,点击它,变红后即代表成功禁用,然后点击下方的`Launch`测试一下是否能正常打开短信.本人亲测禁用这个activity不会影响正常收发短信.
+### 6.在出现的菜单上方搜索`zero`, 会出现`ClassZeroActivity`. 这就是万恶之源,负责弹出霸屏短信的activity,点击它,变红后即代表成功禁用,然后点击下方的`Launch`测试一下是否能正常打开短信.本人亲测禁用这个activity不会影响正常收发短信.
+
+如果你的手机不是安卓原生系统,并且找不到`ClassZeroActivity`,可以尝试搜索`0`,`Flash`一类的关键词,看看有没有相关的activity,自己测试一下.
 
 ![6](/pics/6.jpg)
 
