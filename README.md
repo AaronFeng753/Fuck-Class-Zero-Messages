@@ -1,4 +1,4 @@
-# Fuck-Zero-Messages
+# Fuck Class Zero Messages
 教你禁用零级短信(霸屏短信or闪信)☠✉☠
 大陆的运营商发的闪信也可以照样禁用!!!
 # 什么是霸屏短信?
